@@ -1,0 +1,8 @@
+ABOUT US
+	Our website gives you advice on how to make money as quickly and simply as possible. By the time you're done exploring this website, you'll be a millionare.
+	
+WHO RUNS THIS WEBSITE
+	Alexander Carron
+		A 16-year-old high-school senior proficient in JavaScript 
+	Zachary Hendrix
+		A 17-year-old high-school senior proficient in HTML and CSS

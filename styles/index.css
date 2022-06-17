@@ -1,0 +1,9 @@
+/* Highlight Current Page */
+a[href="index.html"] {
+	color: var(--call-to-action-color);
+}
+
+/* Change Header Background */
+header {
+	background-image: url("../images/backgrounds/dark_home_background.png");
+}

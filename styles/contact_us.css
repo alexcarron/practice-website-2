@@ -1,0 +1,9 @@
+/* Highlight Current Page */
+a[href="contact_us.html"] {
+	color: var(--call-to-action-color);
+}
+
+/* Change Header Background */
+header {
+	background-image: url("../images/backgrounds/dark_contact_us_background.png");
+}

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="
+		The website gives you advice on how to make money as quickly and simply as possible. By the time you're done exploring this website, you'll be a millionare.
+	">
+	
+	<script type="module" src="./scripts/main.js"></script>
+	<script src="./scripts/contact_us.js"></script>
+	
+	<link rel="stylesheet" href="./styles/main.css">
+	<link rel="stylesheet" href="./styles/contact_us.css">
+	
+	<title>Money Makers - Contact Us</title>
+</head>
+<body>
+	
+	<!-- INSERTED WITH JAVASCRIPT -->
+	<nav></nav>
+	
+	<!-- INSERTED WITH JAVASCRIPT -->
+	<header></header>
+	
+	<main>
+		
+		<section>
+			<h2> Looking To Contact Us? </h2>
+			<div>
+				<div>
+					<h3>Call Us</h3>
+					<p><a href="tel:+1219199299">(219) 199-2999</a></p>
+				</div>
+				<div>
+					<h3>Email Us</h3>
+					<p><a href="mailto:moneymakers@gmail.com">moneymakers@gmail.com</a></p>
+				</div>
+			</div>
+		</section>
+		
+		<section>
+			<h2> Have Any Questions? </h2>
+			<div id="form">
+				<div class="input" id="user_name_input_container">
+					<h3> Name </h3>
+					<input type="text" name="user_name" id="user_name_input" placeholder="Joe Smith">
+				</div>
+				<div class="input" id="email_input_container">
+					<h3> Email </h3>
+					<input type="email" name="email" id="email_input" placeholder="sample@email.com">
+				</div>
+				<div class="input" id="question_input_container">
+					<h3> What's Your Question? </h3>
+					<select name="question" id="question_input" onchange="checkSelectedInput()">
+						<option value="What do I do if I didn't make a profit?">What do I do if I didn't make a profit?</option>
+						<option value="What do I do if I don't have the resources to try these scheme?">What do I do if I don't have the resources to try these scheme?</option>
+						<option value="How can I make even more money?">How can I make even more money?</option>
+						<option value="Other">Other</option>
+					</select>
+				</div>
+				<div class="input" id="custom_question_input_container">
+					<h3> What's your custom question? </h3>
+					<input type="text" name="custom_question" id="custom_question_input" placeholder="Question?">
+				</div>
+				<div class="submit">
+					<button type="submit" onclick="validateInputs()"> Submit Question </button>
+					<p id="feedback_text"> Please fill out all fields </p>
+				</div>
+			</div>
+		</section>
+		
+	</main>
+	
+	<!-- INSERTED WITH JAVASCRIPT -->
+	<footer></footer>
+	
+</body>
+</html>

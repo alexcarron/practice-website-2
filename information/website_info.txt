@@ -1,0 +1,24 @@
+TOPIC
+	A Money-Making Guide Website
+	
+NAME
+	Money Makers
+	
+DESCRIPTION
+	The website gives you advice on how to make money as quickly and simply as possible. By the time you're done exploring this website, you'll be a millionare.
+	
+PAGES
+	About Us
+	Money Making Schemes
+	Contact Us
+	
+FOOTER
+	COPYRIGHT
+		@MoneyMakers 2022
+	PHONE NUMBER
+		(
+			
+			
+		)
+	EMAIL
+	

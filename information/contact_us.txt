@@ -1,0 +1,12 @@
+LOOKING TO CONTACT US
+	Call Us
+		(219) 199-2999
+	Email Us
+		moneymakers@gmail.com
+		
+HAVE ANY QUESTIONS
+	NAME
+	Email
+	(Select from list of questions)
+	(If choose other, show custom question field)
+	Submit
